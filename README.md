@@ -2,5 +2,5 @@
 
 Teste 2
 
-#Meu commit.
-teste
+# Meu commit.
+* teste
